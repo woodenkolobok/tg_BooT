@@ -1,0 +1,4 @@
+1. py -m venv venv
+2. Активировать venv: venv/Scripts/activate
+3. В venv: pip install aiogram
+4. pip install python-dotenv
